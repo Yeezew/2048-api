@@ -1,3 +1,14 @@
+# code of my own programme
+'model.py'is the CNN model which is built for this programme
+
+'train.py'is the training procedure in this programme
+
+'agent.py'is an updated file based on the version provided by TA and the definition of MyAgent is included
+
+'evaluate.py'uses MyAgent as TestAgent to evaluate the performance, please run this file to check the results
+
+'2048model.h5'is the final version of model
+
 # 2048-api
 A 2048 game api for training supervised learning (imitation learning) or reinforcement learning agents
 
